@@ -2,4 +2,4 @@
 #Shebang line - Cleaner
 
 nmap $1
-~/dirsearch/dirsearch.py -u $1 -e php
+python3 /home/kali/dirsearch/dirsearch.py -u $1 -e php
